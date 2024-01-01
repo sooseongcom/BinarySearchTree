@@ -1,6 +1,8 @@
 # Binary Search Tree
 This is the code that I learned.
 
+If you need Korean explanation, go to <https://sooseongcom.com/post/bst>{: target="_blank"}.
+
 ## 1\. Files
 * BinarySearchTree.h: class for Binary Search Tree
 * TreeNode.h: class for TreeNode
